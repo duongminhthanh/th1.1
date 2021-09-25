@@ -1,0 +1,17 @@
+/**/
+ul{
+    overflow: hidden;
+    background-color: blue;
+}
+li{
+   display: inline-block
+}
+li a{
+    display:block;
+    padding: 10px;
+    color:black;
+    text-align: center;
+}
+li a:hover{
+    color:yellow ;
+}
